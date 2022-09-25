@@ -17,7 +17,7 @@ function aduult() {
 }
 
 const search = (values) => {
-    if (adult_mode == false) {
+    if (adult_mode == true) {
       if(values.match(/porn|xxx|sex|fuck|pussy/gi)){
         alert('Warning..!\nChildrens doesn\'t allowed to search 18+ things!')
     }
