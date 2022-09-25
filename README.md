@@ -2,6 +2,8 @@
 
 ## [😁CLICK TO PROCCESS](http://htmlpreview.github.io/?https://github.com/prabhasha2006/browser/blob/main/engine.html)
 
+## [😁CLICK TO DOWNLOAD APK](https://www.mediafire.com/file/6fjwjiz4dbmk6p5/RD+browser.apk/file)
+
 > amazing browser
 
 𝗥𝗗 𝗯𝗿𝗼𝘄𝘀𝗲𝗿
