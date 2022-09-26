@@ -279,8 +279,8 @@
   .youtube:hover { background-position: right center; }
   .y2mate {background-image: linear-gradient(to right, #ffffff 0%, #ff006a 50%, #f1f1f1 100%)}
   .y2mate:hover { background-position: right center; }
-  .github {background-image: linear-gradient(to right, #ffffff 0%, #8f8f8f 25%, #f700ff 50%, #525252 75%, #f1f1f1 100%)}
-  .github:hover { background-position: right center; }
+  .news {background-image: linear-gradient(to right, #12d300 0%, #000ed4 50%, #21c700 100%)}
+  .news:hover { background-position: right center; }
   .translate {background-image: linear-gradient(to right, #cfcfcf 0%, #002fff 50%, #c9c9c9 100%)}
   .translate:hover { background-position: right center; }
   .phub {background-image: linear-gradient(to right, #030303 0%, #ffbb00 50%, #000000 100%)}
