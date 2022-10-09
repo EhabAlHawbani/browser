@@ -4,7 +4,7 @@
 
 ## [😁CLICK TO DOWNLOAD APK](https://www.mediafire.com/file/mmz9hxt1xhpdfh8/RD+browser.apk/file)
 
-> amazing browser
+> amazing (auto incognito) browser
 
 𝗥𝗗 𝗯𝗿𝗼𝘄𝘀𝗲𝗿
 
