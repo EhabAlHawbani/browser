@@ -273,7 +273,7 @@
   }
   .google {background-image: linear-gradient(to right, #ff0000 0%, #eeff00 16%, #00e60b 31%, #1a09ff 50%, #00e60b 66%, #fbff09 83%, #ff0909 100%)}
   .google:hover { background-position: right center; }
-  .apex {background-image: linear-gradient(to right, #ffffff 0%, #ff6600 50%, #f1f1f1 100%)}
+  .apex {background-image: linear-gradient(to right, #000000 0%, #ff0000 49%, #000000 100%)}
   .apex:hover { background-position: right center; }
   .youtube {background-image: linear-gradient(to right, #ff0000 0%, #ff0000 10%, #ffffff 25%, #ff0000 40%, #ff0000 50%, #ffffff 50%, #ffffff 60%, #ff0000 75%, #ffffff 90%, #ffffff 100%)}
   .youtube:hover { background-position: right center; }
